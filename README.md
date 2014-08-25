@@ -1,4 +1,4 @@
 ResistAndReconquer
 ==================
 
-The Game I, Omar Ajerray poured month in, completely by myself. it's in alpha. Have fun.
+The Game I poured months in, completely by myself. It's in alpha. Check the Changelog in docs to see what's missing. Have fun.
