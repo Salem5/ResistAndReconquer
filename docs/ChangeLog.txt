@@ -1,0 +1,58 @@
+RnR Changelog
+
+todo:
+
+/= fix created units not being selected if selected tile gets the new contained unit. 
+/= improve selected target screen on disabled quick confirm. 
+/+ new tiles.
+/+ progression.
+/+ noise visibility.
+/+ used order display.
+
+V 0.9 - ???
+
+ = fixed rotation not working after changing the gameobject children of all units.
+
+V 0.8 - ???
+ + ???
+
+V 0.7 - 2013-01-14
+ + tabbing through units with actions left.
+ + checking if the player still has unit that can act.
+ + new, shiny main menu.
+ + stage selection screen.
+ = background is greyed out by the pause menu and unit move available screens.
+
+V 0.6 - 2013-01-13 
+ + entirely new GUI, aimed at touch too.
+ + extended unity selection.
+ + quick confirm, which is active on default.
+ + pause menu with speed options, quick confirm toggle and button to leave the game.
+ + selected unit preview.
+ + Enter key to finish round.
+ + new textures for classic tile.
+ + map bound fog.
+ - info billboard by hovering with the mouse over a unit removed, all info are shown by selecting unts now.
+ - sandbags removed, need to implement new logic and gameplay for orders on tiles.
+ = selection targets that were invalid for an action are become the new selected object. 
+ = I think I've forgotten a few things
+ 
+ ===
+ 
+V 0.5 - 2013-01-12 
+ + added teams for grouping players.
+ + completed win/loss conditions for players and teams.
+ + added capturing of buildings.
+ + added new buildings mine, construction facility.
+ + new textures for monster and soldier models.
+ - removed spawner from alpha map, added new buildings instead for both ai and player.
+ = more stuff that I don't remember.
+ 
+ ===
+
+V 0.4
+ + animation system for rotation, scaling and positioning.
+ + multiple animations in sequence.
+ + different duration for each single animation.
+ + sound for button press.
+ = fixed grenades not using up.
