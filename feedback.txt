@@ -1,0 +1,41 @@
+leidd @129: und das wird nicht aufgehoben
+Gwynnbleidd @129: wie bei doom
+Gwynnbleidd @129: so
+Salem5: Ein paar wurden aufgehoben :D
+Gwynnbleidd @129: habs ma ausprobiert
+Salem5: ein paar uralte games xD
+Gwynnbleidd @129: immer n paar neue funktionalitäten sind dabei ;D
+Gwynnbleidd @129: *immerhin
+Salem5: aber okay.
+Salem5: :)
+Salem5: habe nun ein tutorial zusammengeklickt.
+Salem5: Man kann nun das game auch relativ einfach gewinnen.
+Gwynnbleidd @129: jo, aber das hab ich nicht gelesen
+Gwynnbleidd @129: kann man sandsäcke platzieren?
+Salem5: Jopp.
+Gwynnbleidd @129: und warum haben sandsäcke mehr deckung als ne stadt xD
+Salem5: Muss da noch etwas balancing rein bringen ;)
+Salem5: waren eher ein test für passive orders.
+Salem5: wie silencer
+Salem5: Super, danke :)
+Gwynnbleidd @129: :P hab nix getan außer gemeckert
+Gwynnbleidd @129: finde das bewegen is grad nur etwas
+Gwynnbleidd @129: mühsam
+Gwynnbleidd @129: immer bestätigen und doppelclicken etc
+Salem5: hm.
+Gwynnbleidd @129: geht ma von nem intelligenteren publikum aus, welches weiß dass es sich bewegen möchte xD
+Salem5: Wenn man sich verklickt kann man sichs versauen, aber da du schon der zweite bist, nehme ich es wohl einfach weg und mache eine option draus fürs erste :)
+Gwynnbleidd @129: hehe
+Gwynnbleidd @129: rechtsclick für bewegen
+Gwynnbleidd @129: links für aktionen
+Gwynnbleidd @129: und das menü würde ich am unteren bilschirmrand anbringen
+Gwynnbleidd @129: kann ma gucken ob ich meinen alten code für mein menü finde
+Gwynnbleidd @129: da hatte ich auch schon bilder und kram
+Gwynnbleidd @129: mit drag n drop
+Gwynnbleidd @129: könnteste so ne art RPG bar machen
+Salem5: cool :)
+Salem5: hm
+Salem5: ich gucke mal.
+Salem5: Will das auch irgendwann mal touch f'hig machen
+
+
